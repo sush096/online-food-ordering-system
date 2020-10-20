@@ -29,8 +29,8 @@
 11.first register and then login(for customer/hotel)
 
 12. For admin Login
-      <i> got to http:///localhost/online-food-ordering-system/admin.php
-      <ii> admin login details Email = admin and Password=admin@123
+   <i> got to http:///localhost/online-food-ordering-system/admin.php
+   <ii> admin login details Email = admin and Password=admin@123
 
 
 ## note: never use same name picture for different food for same vendor
