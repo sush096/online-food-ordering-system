@@ -18,16 +18,19 @@
 
 6. click on new at side navbar.
 
-7. give a database name as (dbfood) hit on create button.
+7. create a database name as (###dbfood) hit on create button.
 
-8. after creating database name click on import.
+8. after creating database ###click on import.
 
-9. browse the file in directory [online-shopping-system/dbfood.sql].
+9. browse the file in directory ###[online-shopping-system/dbfood.sql].
 
-10. open any browser and type http://localhost/online-food-ordering-system.
+10. open any browser and type ###http://localhost/online-food-ordering-system.
 
 11.first register and then login(for customer/hotel)
 
 12. For admin Login
-      <i> got to http:///localhost/online-food-ordering-system/admin.php
-      <ii> admin login details Email=admin and Password=admin@123
+      <i> got to ###http:///localhost/online-food-ordering-system/admin.php
+      <ii> admin login details Email = admin and Password=admin@123
+
+
+##note: never use same name picture for different food for same vendor
