@@ -4,12 +4,12 @@
 <br>
 <nav class="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
   
-   <a class="navbar-brand" href="index.php"><span style="color:#f6f6f6;font-family: 'Permanent Marker', cursive; font-size:30px; font-weight: 400;">HungerBuzz</span></a>
+   <a class="navbar-brand" href="index.php"><span style="color:#f6f6f6;font-family: 'Permanent Marker', cursive; font-weight: 400;">HungerBuzz</span></a>
     <?php
 	if(!empty($cust_id))
 	{
 	?>
-	<a class="navbar-brand" href="form/profile.php" style="color:white; text-decoratio:none;"><i class="far fa-user"><?php if(isset($cust_id)) { echo $qqr['fld_name']; }?></i></a>
+	<a class="navbar-brand" href="form/profile.php" style="color:white; text-decoration:none;"><i class="far fa-user"><?php if(isset($cust_id)) { echo $qqr['fld_name']; }?></i></a>
 	<?php
 	}
 	?>

@@ -19,7 +19,7 @@ body{
      /*background-image:url("img/main_spice2.jpg");*/
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
-	  background-position: center;
+	 background-position: center;
 	}
 	ul li {list-style:none;}
 	ul li a{color:black; font-weight:bold;}
@@ -39,7 +39,7 @@ body{
 
 		<nav class="navbar navbar-expand-lg navbar-dark fixed-top mb-5" id="navBar">
 		  
-		    <a class="navbar-brand" href="index.php"><span style="color:#f6f6f6;font-family: 'Permanent Marker', cursive; font-size:30px; font-weight: 400;">HungerBuzz</span></a>
+		    <a class="navbar-brand" href="index.php"><span style="color:#f6f6f6;font-family: 'Permanent Marker', cursive; font-weight: 400;">HungerBuzz</span></a>
 			    <?php
 				if(!empty($cust_id))
 				{

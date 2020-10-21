@@ -137,9 +137,11 @@ if(isset($logout))
 
 </head>
 <body>
+
+	<?php //include('header.php');?>
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
   
-    <a class="navbar-brand" href="../index.php"><span style="color:green;font-family: 'Permanent Marker', cursive;">Food Hunt</span></a>
+    <a class="navbar-brand" href="../index.php"><span style="color:green;font-family: 'Permanent Marker', cursive;">HungerBuzz</span></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -198,7 +200,7 @@ if(isset($logout))
              <a class="nav-link active" id="home-tab" data-toggle="tab" href="#viewitem" role="tab" aria-controls="home" aria-selected="true">Update Products</a>
           </li>
          
-              <a class="nav-link" style="color:white;" id="profile-tab"  aria-selected="false">Product Details</a>
+              <!-- <a class="nav-link" style="color:white;" id="profile-tab"  aria-selected="false">Product Details</a> -->
          
 		  
        </ul>
